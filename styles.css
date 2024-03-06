@@ -1,0 +1,44 @@
+header{
+    background-color:orangered;
+    color:white;
+    text-align:center;
+    height:100px;
+    margin-left:350px;
+    margin-right:350px;
+  }
+  .av{
+    background-color:white;
+    text-align:center;
+    height:100px;
+    margin-left:350px;
+    margin-right:350px;
+  }
+  .ax{
+      background-color:green;
+    text-align:center;
+    height:100px;
+    margin-left:350px;
+    margin-right:350px;
+  }
+  .ay{
+    background-color:Yellow;
+    height:100px;
+    width:7%;
+    border-radius:50%;
+    margin-left:700px;
+    position:relative;
+    top:-200px;
+    text-align:center;
+    padding-top:10px;
+  }
+  .stand{
+    background-color:black;
+    padding:20px;
+    height:700px;
+    width:1px;
+    margin-left:370px;
+    position:absolute;
+    top:10px;
+  }
+  
+            
